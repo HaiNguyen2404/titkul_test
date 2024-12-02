@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "status_code": 200,
+    "message": "Thực hiện thành công",
+    "error_code": 0,
+    "token": "6e39e4802fc74c89913153f57264a7e6",
+    "stringdata": {
+        "ma_truong_bo": "79000763",
+        "hoc_sinh": null,
+        "giao_vien": null,
+        "phu_huynh": {
+            "role": "PhuHuynh",
+            "email": null,
+            "hoten": "Titkul",
+            "diachi": "261/3 tổ 5 khu phố miễu nhì",
+            "quanhe": "Mẹ",
+            "namsinh": 1973,
+            "dienthoai": "0939734528",
+            "mataikhoan": "24081216135008",
+            "nghenghiep": "Thợ may",
+            "ma_truong_bo": "79000763",
+            "thongtin": null,
+            "hocsinh": [
+                {
+                    "doi_tuong": null,
+                    "phai": "Nam",
+                    "lopid": 955,
+                    "diachi": "46 đường Thạnh Thới, ấp Hòa Hiệp, Long Hòa, Cần Giờ",
+                    "tenlop": "12A6",
+                    "ngaysinh": "2007-09-23",
+                    "ma_hoc_sinh": "N4Jfpbdx",
+                    "mataikhoan_me": null,
+                    "mataikhoan_cha": null,
+                    "ma_so_dinh_danh_ca_nhan": null,
+                    "ma_truong_bo": "79000763",
+                    "ma_hoc_ky": "23",
+                    "nam_hoc": "2024-2025",
+                    "ma_khoi": "18",
+                    "role": "HocSinh",
+                    "id_hocsinh_so": 858217,
+                    "ma_hs_so": "8261341785",
+                    "thongtin": null,
+                    "hoten": "Huỳnh Đức Tài",
+                    "trangthaihoctap": 1,
+                    "hinhthuchoctap": 1,
+                    "is_selected": false
+                }
+            ],
+            "hocsinh_id_so": 0
+        }
+    },
+    "error_info": null,
+    "jsonbody": null,
+    "elapsedtime": "00:00:00.18"
+}

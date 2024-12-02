@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "status_code": 200,
+    "message": "Thực hiện thành công",
+    "error_code": 0,
+    "token": "a72b8d2dbe5848f0a5359bbcd7cec21c",
+    "stringdata": {
+        "ma_hs_so": "8261341785",
+        "ma_lop": 36165,
+        "ma_khoi": 18,
+        "ten_hocsinh": "Huỳnh Đức Tài",
+        "ten_lop": "12A6",
+        "ngay": "2024-11-16",
+        "is_selected": true,
+        "thoigiandiemdanh": {
+            "landaubuoisang": "07:27:16",
+            "lancuoibuoisang": "07:27:16",
+            "landaubuoichieu": null,
+            "lancuoibuoichieu": null
+        },
+        "trangthaisang": 1,
+        "trangthaichieu": 0
+    },
+    "error_info": null,
+    "jsonbody": null,
+    "elapsedtime": "00:00:00.10"
+}
